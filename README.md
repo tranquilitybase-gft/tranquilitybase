@@ -24,3 +24,6 @@ A self-service portal for automating the provisioning of a set of DevOps-ready r
 - Pipelines can be defined using several release strategies – Canary, Blue/Green, Rolling Blue/Green and Release Train.
 - Pipelines include ITIL practices including release notes, change control, auditing, pre and post release testing and automated rollbacks.
 - Pipelines support both CI/CD and also Continuous Deployment (release-at-will).
+
+# Contact
+Please contact admin@tranquilitybase.io for more information, to be notified of the initial release, to contribute, or to recieve an invite to Slack & Discourse
